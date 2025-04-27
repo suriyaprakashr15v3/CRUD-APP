@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Bala",
+      "contact": "1234567890",
+      "location": "Sivakasi",
+      "gender": "Male",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Srikanth",
+      "contact": "9876543210",
+      "location": "Madurai",
+      "gender": "Male",
+      "age": 20
+    }
+  ]
+  
